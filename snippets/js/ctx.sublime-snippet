@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+static contextTypes = {
+  alt: React.PropTypes.object.isRequired,
+};
+]]></content>
+    <tabTrigger>ctx</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: contextTypes</description>
+</snippet>
