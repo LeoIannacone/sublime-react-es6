@@ -5,9 +5,10 @@ import React from 'react'
 export default class ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} extends React.Component {
   cls = s => s ? '${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}}-' + s : '${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}}'
 
-	render() {
+	render () {
 		return (
-			<${5:div} className={this.cls()}></${5:div}>
+			<${5:div} className={this.cls()}>
+      </${5:div}>
 		)
 	}
 }
