@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import _ from 'lodash'
+]]></content>
+    <tabTrigger>i_</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: import _ from 'lodash'</description>
+</snippet>

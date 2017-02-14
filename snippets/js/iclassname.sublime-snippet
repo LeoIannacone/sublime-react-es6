@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import classname from 'classnames'
+]]></content>
+    <tabTrigger>icls</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: import classname from 'classnames'</description>
+</snippet>
